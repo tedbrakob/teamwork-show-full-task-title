@@ -1,0 +1,9 @@
+/* Selectors are very specific because   */
+
+#TaskContent div.s-project-task__tasklist div.task-row.border--none > div.row-content-holder > div.w-task-row__name > span,
+#TaskContent div.s-project-task__tasklist div.task-row.border--none > div.row-content-holder > div.w-task-row__name > a,
+#TaskContent  div.s-project-task__tasklist div.task-subHold.tasks-container div.task-row > div.row-content-holder > div.w-task-row__name > a,
+#TaskContent  div.s-project-task__tasklist div.task-subHold.tasks-container div.task-row > div.row-content-holder > div.w-task-row__name > span
+{
+    white-space: unset !important;
+}
