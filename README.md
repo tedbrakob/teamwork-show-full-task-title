@@ -9,7 +9,7 @@
   <h3 align="center">Teamwork Show Full Task Title</h3>
 
   <p align="center">
-    <a href="https://chrome.google.com/webstore/detail/teamwork-show-full-task-title">Chrome Web Store</a>
+    <a href="https://chrome.google.com/webstore/detail/teamwork-show-full-task-t/bbjbacdabpfpeikelanmmmhhacnbkpcp">Chrome Web Store</a>
     ·
     <a href="https://github.com/tedbrakob/teamwork-show-full-task-title">Github</a>
   </p>
